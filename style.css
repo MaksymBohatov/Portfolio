@@ -1,6 +1,7 @@
 body {
   margin: 0;
   margin: 0 auto;
+  font-family: Roboto;
 }
 :root {
   --main-text: #212121;
